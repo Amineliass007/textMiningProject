@@ -1,3 +1,6 @@
-pyspark
+
+
+# PySpark dependencies (required)
+py4j
 spacy
 streamlit
